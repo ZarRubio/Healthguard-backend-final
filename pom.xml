@@ -42,6 +42,7 @@
 		<module>user-service</module>
 		<module>patient-service</module>
 		<module>measurement-service</module>
+		<module>iotdevice-service</module>
 	</modules>
 
 	<build>
