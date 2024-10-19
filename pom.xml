@@ -39,6 +39,9 @@
 
 	<modules>
 		<module>api-gateway</module>
+		<module>user-service</module>
+		<module>patient-service</module>
+		<module>measurement-service</module>
 	</modules>
 
 	<build>
